@@ -6,7 +6,7 @@
 
 ```bash
 npm install
-npm run cliet install
+npm run client install
 ```
 
 Запустить сборку
